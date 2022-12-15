@@ -1,5 +1,5 @@
 """
-John Spangle, 2022
+TogaMasterJohn/StormSpotterJohn, 2022
 
 NWS XML Display Tool, version 0.9.0
 
