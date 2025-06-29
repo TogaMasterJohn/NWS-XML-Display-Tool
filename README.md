@@ -1,6 +1,6 @@
 # NWS XML Display Tool
 
-## version 0.9.0 by TogaMasterJohn/StormSpotterJohn
+## version 0.9.1 by TogaMasterJohn/StormSpotterJohn
 
 *This program is not affiliated with the National Oceanic and Atmospheric Administration or the National Weather Service – please do not contact them for support. If you have questions, please contact me on GitHub. Thank you!*
 
@@ -22,13 +22,13 @@ This program makes use of the following modules:
 
 Currently, most land stations here in the continental U.S. are supported. Water stations are not supported at this time, and will not display anything. Support for water stations and land stations with different or missing XML tags are planned in a future release. Please see the “Future Release Plans” section for more information.
 
-To download a ZIP file containing over 5,000 current observation XML files from the National Weather Service, visit https://w1.weather.gov/xml/current_obs/ and select "All current XML files" (the ZIP file is usually around 5 MB; 10 MB once extracted).
+To download a ZIP file containing over 5,000 current observation XML files from the National Weather Service, visit https://forecast.weather.gov/xml/current_obs and select "All current XML files" (the ZIP file is usually ~5 MB; ~10 MB once extracted).
 
-Direct link: https://w1.weather.gov/xml/current_obs/all_xml.zip
+Direct link: https://forecast.weather.gov/xml/current_obs/all_xml.zip
 
 ### How to Use the Program
 
-As of version 0.9.0:
+As of version 0.9.1:
 
 There are three buttons in the main program window:
 
