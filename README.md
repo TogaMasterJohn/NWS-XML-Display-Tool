@@ -2,7 +2,7 @@
 
 ## version 0.11.1 by TogaMasterJohn/StormSpotterJohn
 
-*This tool is not affiliated with the National Oceanic and Atmospheric Administration or the National Weather Service – please do not contact them for support. If you have questions, please contact me on GitHub. Thank you!*
+*This tool is neither endorsed by nor affiliated with either the National Oceanic and Atmospheric Administration or the National Weather Service. As such, please do not contact them for support. If you have any questions or comments, please contact me on GitHub. Thank you!*
 
 ### Introduction
 
